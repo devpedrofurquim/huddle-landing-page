@@ -16,11 +16,11 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Desktop
 
-![](./images/Screenshot-Desktop.pngscreenshot.jpg)
+![](./images/Screenshot-Desktop.png)
 
 ### Mobile
 
-![](./images/Screenshot-Mobile.pngscreenshot.jpg)
+![](./images/Screenshot-Mobile.png)
 
 
 ### Links
