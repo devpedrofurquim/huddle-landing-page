@@ -25,7 +25,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Huddle Landing Page](https://devpedrofurquim.github.io/huddle-landing-page/)
 
 ### Built with
 
